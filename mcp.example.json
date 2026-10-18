@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "sun-panel": {
+      "command": "/absolute/path/to/python-with-mcp-installed",
+      "args": ["/absolute/path/to/sun-panel/scripts/sun_panel_mcp.py"],
+      "env": {
+        "SUN_PANEL_BASE_URL": "https://panel.example.com/openapi/v1"
+      }
+    }
+  }
+}

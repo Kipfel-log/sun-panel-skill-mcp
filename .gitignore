@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+*.pem
+*.key
+credentials*.json
+local-config*.json
+mcp.local.json
+.DS_Store
+Thumbs.db
+work/
